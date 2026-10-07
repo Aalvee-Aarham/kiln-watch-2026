@@ -82,9 +82,9 @@ Statistics per cluster and per control:
 
 | Outcome | What happens |
 |---|---|
-| G1 ✅ G2 ✅ | Kiln/crop split from 2003; kiln calendar 2003 → today |
-| G1 ✅ G2 ❌ | Kiln/crop split and kiln calendar from 2012 |
-| G1 ❌ | The fire calendar is declared kiln-free (nothing to remove), we publish the negative result, and run **T5** |
+| G1 pass, G2 pass | Kiln/crop split from 2003; kiln calendar 2003 → today |
+| G1 pass, G2 fail | Kiln/crop split and kiln calendar from 2012 |
+| G1 fail | The fire calendar is declared kiln-free (nothing to remove), we publish the negative result, and run **T5** |
 
 ### T5. If fire sensors miss kilns, can other sensors see kiln *activity*?
 

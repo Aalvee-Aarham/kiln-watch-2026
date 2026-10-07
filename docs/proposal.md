@@ -80,8 +80,8 @@ Crop-residue burning and brick-kiln firing happen in the same dry months (roughl
 
 | Layer | What it delivers | Ships in every outcome? |
 |---|---|---|
-| **1. Harmonized burning calendar** *(core)* | One consistent fire calendar 2003 → today for any area, with error ranges | ✅ Yes |
-| **2. Kiln test** | A published answer to "can fire satellites see kilns?", with matched farmland as the comparison | ✅ Yes, the answer is a result either way |
+| **1. Harmonized burning calendar** *(core)* | One consistent fire calendar 2003 → today for any area, with error ranges | Yes |
+| **2. Kiln test** | A published answer to "can fire satellites see kilns?", with matched farmland as the comparison | Yes, the answer is a result either way |
 | **3. Kiln calendar** | When kilns work in each area and how that has changed | Only if T4 or T5 passes |
 
 ### 4.2 Harmonization: how we make the satellites agree
@@ -115,16 +115,16 @@ A static site (no server): fast, cheap to host on GitHub Pages, and it keeps wor
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│ 🔥 Kiln Watch     My area · Kiln calendar · Sensor switch ·  │
+│ Kiln Watch        My area · Kiln calendar · Sensor switch ·  │
 │                   Agun Ponjika · For experts      [EN | বাংলা] │
 ├──────────────────────────────┬───────────────────────────────┤
 │                              │  Netrokona Sadar              │
 │     [ map of Bangladesh,     │  Burning season: mid-Mar →    │
 │       Mymensingh division    │  early May (peak: late Apr)   │
-│       highlighted ]          │  This season: ● normal so far │
+│       highlighted ]          │  This season: normal so far   │
 │                              │                               │
-│  🔍 Search district/upazila  │  Jan Feb Mar Apr May ... Dec  │
-│  📍 Use my location          │  ░░░ ░░░ ▒▒▓ ███ ▓▒░ ... ░░░  │
+│  Search district/upazila     │  Jan Feb Mar Apr May ... Dec  │
+│  Use my location             │  ░░░ ░░░ ▒▒▓ ███ ▓▒░ ... ░░░  │
 │                              │  [ raw | corrected ]          │
 └──────────────────────────────┴───────────────────────────────┘
 ```
